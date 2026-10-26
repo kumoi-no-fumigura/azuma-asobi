@@ -1,0 +1,129 @@
+{
+ "work": "東遊",
+ "work_id": "azuma-asobi",
+ "repo": "kumoi-no-fumigura/azuma-asobi",
+ "yomi": "あずまあそび",
+ "category": "歌謡",
+ "kind": "kashu",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1913603",
+   "title": "有朋堂文庫 第69（歌謡）",
+   "editor": "",
+   "series": "有朋堂文庫",
+   "publisher": "有朋堂書店",
+   "year": 1915,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/1913603"
+  }
+ ],
+ "status": "校正前（国立国会図書館の全文テキスト（OCR）を、見出しで切ったもの。異文の印は本文に残した。注は sachu に入れた）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "azuma-asobi-000001",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "東遊",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "歌",
+   "yomi": "",
+   "sachu": "手-琴笛の手さかむのねー盛の第3なるくさ-人名か地名かならん",
+   "jo": false,
+   "pages": [
+    87
+   ],
+   "no": 1,
+   "poems": []
+  },
+  {
+   "id": "azuma-asobi-000002",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "さ寢ーさは發語",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ヲヲヲヲ。ハレナ。手を調へろな。歌と〓のへむな。さかむのねェ。ヲヲヲヲ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    87
+   ],
+   "no": 2,
+   "poems": []
+  },
+  {
+   "id": "azuma-asobi-000003",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "二歌",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "エ我脊子が。今朝の琴手は。アハレ。七つ絃の。八つ緒の琴を。調べたることや。なをかけや。あまのかつのをけや。ヲヲヲヲ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    87
+   ],
+   "no": 3,
+   "poems": []
+  },
+  {
+   "id": "azuma-asobi-000004",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "駿河歌",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "中。有度濱に。駿河なる。有度濱に。打ち寄する波は。な〓くさの妹。ことこそよし。ことこそよし。な〓くさのいもは。ことこそよし。あへるとき。いささ寢なんや。な〓くさのいも。ことこそよし」。あな安らけ。あな安ら安ら。あな安らけ。練の〓の。衣の",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    87
+   ],
+   "no": 4,
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "azuma-asobi",
+  "work": "東遊",
+  "yomi": "あずまあそび",
+  "category": "歌謡",
+  "order": 0,
+  "era": "平安時代",
+  "author": "",
+  "kind": "kashu",
+  "blocks": 4,
+  "chars": 213,
+  "poems": 4,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-26",
+  "updated_at": "2026-10-26T16:46:20+09:00"
+ }
+}
