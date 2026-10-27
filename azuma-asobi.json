@@ -5,7 +5,12 @@
  "yomi": "あずまあそび",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（東遊歌）",
+  "era": "平安時代",
+  "author": "未詳",
+  "desc": "東国の風俗歌に由来し、宮中や神社の祭儀で舞とともに奏された歌謡。駿河歌・求子歌などの曲からなる。"
+ },
  "editions": [
   {
    "pid": "1913603",
